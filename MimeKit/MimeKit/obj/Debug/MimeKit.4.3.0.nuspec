@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MimeKit</id>
+    <version>4.3.0</version>
+    <authors>Jeffrey Stedfast</authors>
+    <description>An Open Source library for creating and parsing MIME, S/MIME, PGP messages on desktop and mobile platforms.</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/bin/Debug/net7.0/MimeKit.dll" target="lib/net7.0/MimeKit.dll" />
+  </files>
+</package>
