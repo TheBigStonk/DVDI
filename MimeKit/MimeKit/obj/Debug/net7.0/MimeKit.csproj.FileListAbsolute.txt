@@ -1,0 +1,12 @@
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/bin/Debug/net7.0/MimeKit.deps.json
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/bin/Debug/net7.0/MimeKit.dll
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/bin/Debug/net7.0/MimeKit.pdb
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.csproj.AssemblyReference.cache
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.AssemblyInfoInputs.cache
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.AssemblyInfo.cs
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.csproj.CoreCompileInputs.cache
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.dll
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/refint/MimeKit.dll
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.pdb
+/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/ref/MimeKit.dll
