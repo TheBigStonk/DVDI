@@ -1,7 +1,7 @@
 # Damn Vulnerable Dependency Injection (DVDI)
 (*TLDR: The section below labelled [Installation](#-Installation) should help you set it up*)
 
-Ever since Alex Birsan came up with his amazing research on Dependency Confusion in 2021 ([here](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)) 
+Ever since Alex Birsan came up with his amazing research on Dependency Confusion in 2021 ([here](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)), there has been a lot of work in the area of dependency confusion and third-party opensource risk.
 
 In summary Alex's research takes a look at how local/public feeds/locations can all be confused with versions and people publishing everywhere can invariably lead to bad peoples code being referenced in your code! 😱😱😱
 
