@@ -29,7 +29,7 @@ dotnet nuget add source <Path to Local Feed Directory> -n LocalFeed
 
 Add package to local feed
 ``` powershell
-nuget add .\bin\Release\MimeKit.4.3.2.nupkg -Source C:\LocalNugetFeed\
+nuget add .\bin\Release\MimeKit.4.3.2.1.nupkg -Source C:\LocalNugetFeed\
 ```
 
 Command to add package to victim app:
