@@ -3,12 +3,13 @@
     <PropertyGroup>
         <Description>An Open Source library for creating and parsing MIME, S/MIME, PGP messages on desktop and mobile platforms.</Description>
         <AssemblyTitle>MimeKit</AssemblyTitle>
-        <VersionPrefix>4.3.0</VersionPrefix>
+        <VersionPrefix>4.3.2.1</VersionPrefix>
         <LangVersion>10</LangVersion>
         <Authors>Jeffrey Stedfast</Authors>
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>MimeKit</Title>
     </PropertyGroup>
 
 </Project>

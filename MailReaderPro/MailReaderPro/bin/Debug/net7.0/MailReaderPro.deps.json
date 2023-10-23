@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MailReaderPro/1.0.0": {
+        "dependencies": {
+          "MimeKit": "4.3.2.1"
+        },
+        "runtime": {
+          "MailReaderPro.dll": {}
+        }
+      },
+      "MimeKit/4.3.2.1": {
+        "runtime": {
+          "lib/net7.0/MimeKit.dll": {
+            "assemblyVersion": "4.3.2.1",
+            "fileVersion": "4.3.2.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MailReaderPro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MimeKit/4.3.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bWgPCA1adJAmK8tLYqZauNA9tSinzG/VTGx1CpFasP6REkNmK6XYhKRWs5TzpWOTbdWNUHrAKlzu429QaGtHqw==",
+      "path": "mimekit/4.3.2.1",
+      "hashPath": "mimekit.4.3.2.1.nupkg.sha512"
+    }
+  }
+}

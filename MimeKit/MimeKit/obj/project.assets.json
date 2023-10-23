@@ -8,24 +8,29 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/haze/.nuget/packages/": {}
+    "C:\\Users\\m.francis\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "4.3.0",
+    "version": "4.3.2.1",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/MimeKit.csproj",
+      "projectUniqueName": "C:\\Users\\m.francis\\Code\\DVDI\\MimeKit\\MimeKit\\MimeKit.csproj",
       "projectName": "MimeKit",
-      "projectPath": "/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/MimeKit.csproj",
-      "packagesPath": "/home/haze/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/",
+      "projectPath": "C:\\Users\\m.francis\\Code\\DVDI\\MimeKit\\MimeKit\\MimeKit.csproj",
+      "packagesPath": "C:\\Users\\m.francis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m.francis\\Code\\DVDI\\MimeKit\\MimeKit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/haze/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\m.francis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\LocalNugetFeed": {},
+        "C:\\LocalNugetFeed\\": {},
+        "C:\\LocalNugetFeed\\mimekit\\4.3.0\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

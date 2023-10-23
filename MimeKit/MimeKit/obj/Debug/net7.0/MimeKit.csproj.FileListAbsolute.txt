@@ -10,3 +10,15 @@
 /mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/refint/MimeKit.dll
 /mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/MimeKit.pdb
 /mnt/c/Users/m.francis/Code/DVDI/MimeKit/MimeKit/obj/Debug/net7.0/ref/MimeKit.dll
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\bin\Debug\net7.0\MimeKit.deps.json
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\bin\Debug\net7.0\MimeKit.dll
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\bin\Debug\net7.0\MimeKit.pdb
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\MimeKit.csproj.AssemblyReference.cache
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\MimeKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\MimeKit.AssemblyInfoInputs.cache
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\MimeKit.AssemblyInfo.cs
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\MimeKit.csproj.CoreCompileInputs.cache
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\MimeKit.dll
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\refint\MimeKit.dll
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\MimeKit.pdb
+C:\Users\m.francis\Code\DVDI\MimeKit\MimeKit\obj\Debug\net7.0\ref\MimeKit.dll

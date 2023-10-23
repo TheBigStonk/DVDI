@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dyLQ4Eel7uUe8hBlC0tbtcieaVpzpXl0EZqXfAY1vtHWh1WG/d6HI9Vk4aSr2p6MJVPhJoYa2Kc4dp9a4TpPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.francis\\Code\\DVDI\\MailReaderPro\\MailReaderPro\\MailReaderPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.francis\\.nuget\\packages\\mimekit\\4.3.2.1\\mimekit.4.3.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

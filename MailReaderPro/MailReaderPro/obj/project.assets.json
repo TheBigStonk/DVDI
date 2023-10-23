@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "MimeKit/4.3.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/MimeKit.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/MimeKit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MimeKit/4.3.2.1": {
+      "sha512": "bWgPCA1adJAmK8tLYqZauNA9tSinzG/VTGx1CpFasP6REkNmK6XYhKRWs5TzpWOTbdWNUHrAKlzu429QaGtHqw==",
+      "type": "package",
+      "path": "mimekit/4.3.2.1",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net7.0/MimeKit.dll",
+        "mimekit.4.3.2.1.nupkg.sha512",
+        "mimekit.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "MimeKit >= 4.3.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\m.francis\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\m.francis\\Code\\DVDI\\MailReaderPro\\MailReaderPro\\MailReaderPro.csproj",
+      "projectName": "MailReaderPro",
+      "projectPath": "C:\\Users\\m.francis\\Code\\DVDI\\MailReaderPro\\MailReaderPro\\MailReaderPro.csproj",
+      "packagesPath": "C:\\Users\\m.francis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m.francis\\Code\\DVDI\\MailReaderPro\\MailReaderPro\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\m.francis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\LocalNugetFeed": {},
+        "C:\\LocalNugetFeed\\": {},
+        "C:\\LocalNugetFeed\\mimekit\\4.3.0\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "MimeKit": {
+            "target": "Package",
+            "version": "[4.3.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

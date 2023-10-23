@@ -1,0 +1,17 @@
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.csproj.AssemblyReference.cache
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.AssemblyInfoInputs.cache
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.AssemblyInfo.cs
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.csproj.CoreCompileInputs.cache
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\bin\Debug\net7.0\MailReaderPro.exe
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\bin\Debug\net7.0\MailReaderPro.deps.json
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\bin\Debug\net7.0\MailReaderPro.runtimeconfig.json
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\bin\Debug\net7.0\MailReaderPro.dll
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\bin\Debug\net7.0\MailReaderPro.pdb
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\bin\Debug\net7.0\MimeKit.dll
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.csproj.CopyComplete
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.dll
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\refint\MailReaderPro.dll
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.pdb
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\MailReaderPro.genruntimeconfig.cache
+C:\Users\m.francis\Code\DVDI\MailReaderPro\MailReaderPro\obj\Debug\net7.0\ref\MailReaderPro.dll
