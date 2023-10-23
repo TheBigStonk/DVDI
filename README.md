@@ -10,7 +10,8 @@ Now, what this is involves a POC with setup instructions which looks at:
 - Publishing a package with the same name as a NuGet.org package to a local feed;
 - Importing the local package to a victim app (.NET Console App); and
 - Getting data exfiltration via an AWS API Gateway (HTTP, no auth'd) which connects to an AWS Lambda (Python) and logs data it receives.
-![picture-of-dvdi-in-action](/DVDI/Local_Dependency_Confusion_Example.png)
+
+![picture-of-dvdi-in-action](/Local_Dependency_Confusion_Example.png)
 
 ## Installation
 
